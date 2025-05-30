@@ -1,0 +1,72 @@
+title = "Go from Packet Zero to Packet Hero with this Practical Wireshark course."
+rating = 4.8
+rating_count = 9035
+student_count = 56119
+duration = "5.5 hours"
+last_updated = "January 2025"
+
+what_you_will_learn = [
+  "Capture and interpret network traffic with Wireshark",
+  "Troubleshoot the top five network problems with Wireshark",
+  "Understand core networking protocols - DHCP, DNS, TCP/IP",
+  "Analyze a cybersecurity attack with Wireshark"
+]
+
+description = """
+Wireshark can be intimidating. I remember how it felt when I first started looking at a trace file with Wireshark. Questions started flooding into my mind:
+
+What should I look for? Where do I start? How can I find the packets that matter? What filters should I use? What is "normal"?
+
+I froze under the weight of all the detail in the packets.
+
+If you have ever felt that way when looking at a pcap, this is the course for you!
+
+Throughout this course, we are going to look at real-world examples of how to practically use Wireshark to solve network problems. This skill will help all IT engineers to improve in their analysis and troubleshooting skills. Labs have been designed with participation in mind. Download the trace file, try your hand at the questions that go along with it, and see if you can solve the network puzzle in the packets.
+
+While learning the art of packet analysis, we will also explore the Wireshark interface, configure custom columns, filters, and coloring rules, learning how to customize the layout so we can spot problems fast. This course will give you comfort with the Wireshark interface and the experience you need to understand core protocols.
+
+My name is Chris Greer and I am directly affiliated with the Wireshark Foundation. I teach packet analysis for companies all over the globe. In this course, I bring real-world examples to every lecture, exercise, and course assignment. My goal is for you to get comfortable with the Wireshark interface, learn to interpret the packets, and find actionable data that will help you to resolve problems or spot security incidents faster.
+
+Ready Packet People? Let's dig!
+"""
+
+who_this_course_is_for = [
+  "Network Engineers and Cybersecurity professionals who want to learn Wireshark",
+  "Threat hunters who want to learn to dig into protocols."
+]
+
+[[instructors]]
+id = 1
+name = "David Bombal"
+title = "Experts with David Bombal"
+description = """
+Experts helping you become an expert.
+
+David Bombal, together with some of the best minds in the industry is offering courses on a wide range of topics including networking, programming and software development. Our team has decades of experience teaching students from all over the world.
+
+Together we can do more!
+
+David Bombal (CCIE #11023 Emeritus) passed his Cisco Certified Internetwork Expert Routing and Switching exam in January 2003 and is one of a small percentage of Cisco Engineers that pass their CCIE labs on their first attempt.
+
+David qualified as a Cisco Certified Systems Instructor (CCSI #22787) many years ago! He has been training Cisco courses for over 15 years and has delivered instructor led courses in various countries around the world covering a wide range of Cisco topics from CCNA to CCIE.
+
+He has also personally developed Cisco engineer utilities such as the VPN Config Generator, software, training materials, eBooks, videos and other products which are used throughout the world.
+
+David has designed, implemented and managed networks ranging from single sites to those that span 50 countries.
+"""
+
+[[instructors]]
+id = 2
+name = "Chris Greer"
+title = "Packet Analyst/Instructor/Wireshark University"
+description = """
+I love packet analysis!
+
+Why? Because packets hold the keys to solving gritty, complex, long-standing issues affecting networks and applications today. However, it is one thing to capture packets and another to interpret and understand them.
+
+I am passionate about helping network engineers , cybersecurity professionals, and developers of all experience levels gain comfort with packet analysis. I bring 20 years of packet analysis experience to each course that I teach, whether live or on-demand. Join me on a course and let's have some fun while we learn!
+"""
+
+requirements = [
+  "Basic networking - switching, routing"
+]
